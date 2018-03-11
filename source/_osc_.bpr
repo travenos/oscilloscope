@@ -72,7 +72,7 @@ IncludeVerInfo=1
 AutoIncBuild=0
 MajorVer=2
 MinorVer=5
-Release=1
+Release=2
 Build=0
 Debug=0
 PreRelease=0
@@ -85,13 +85,13 @@ CodePage=1251
 [Version Info Keys]
 CompanyName=Военная кафедра МИРЭА
 FileDescription=Имитатор осциллографа С1-83
-FileVersion=2.5.1.0
+FileVersion=2.5.2.0
 InternalName=
 LegalCopyright=
 LegalTrademarks=
 OriginalFilename=
 ProductName=Имитатор осциллографа
-ProductVersion=2.5.1.0
+ProductVersion=2.5.2.0
 Comments=
 
 [Excluded Packages]
